@@ -1,5 +1,5 @@
 ---
-title: time well spent
+title: Time well spent
 layout: post
 author: elliot.morgan
 permalink: /time-well-spent/
