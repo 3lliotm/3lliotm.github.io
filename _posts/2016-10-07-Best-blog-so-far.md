@@ -2,7 +2,7 @@
 title: Best blog so far
 layout: post
 author: elliot.morgan
-permalink: /best-blog-so-far/
+permalink: /Best-blog-so-far/
 source-id: 1UFoCGrg5En1TuPNZuhvrEANkzLSn1n-rK1--sPQAjqw
 published: true
 ---
