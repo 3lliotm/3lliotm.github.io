@@ -1,5 +1,5 @@
 ---
-title: best blog so far
+title: Best blog so far
 layout: post
 author: elliot.morgan
 permalink: /best-blog-so-far/
@@ -12,5 +12,6 @@ To do this i found a image on the internet that i liked and then copied the url 
 
 I hope this helped some people! 
 
-GOOD LUCK!!
+GOOD LUCK!
+
 
